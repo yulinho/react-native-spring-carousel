@@ -151,7 +151,7 @@ var carousel = React.createClass({
         }
     }
     this.movePage(currentPage);
-    this.onMovePaged(currentPage);
+    this.onMovePaged(0-currentPage);
   },
   movePage(currentPage){
 
