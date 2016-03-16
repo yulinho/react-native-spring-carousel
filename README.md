@@ -39,6 +39,7 @@ render() {
                 pagerMargin={2}
                 speed={2000}
                 onPress={this.onPressSlide}
+                onMovePaged={this.onMovePaged}
                 >
                    <View style={{width:width,height:300,backgroundColor:'#aaa',}}>
                      <Text>Page 1</Text>
@@ -54,6 +55,8 @@ render() {
       }
 ```
 ## Update
+0.3.4 add method onMovePaged
+
 0.3.2 remove listener onunmount
 
 0.3.1 fixed onpress issue
