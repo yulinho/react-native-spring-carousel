@@ -83,6 +83,11 @@ var carousel = React.createClass({
       this.props.onPress(index);
     }
   },
+  onMovePaged:function(index){
+    if(this.props.onMovePaged){
+      this.props.onMovePaged(index);
+    }
+  },
   componentDidMount: function() {
 //    this._updatePosition();
     this.refs.scrollPanel.setNativeProps({
@@ -146,6 +151,7 @@ var carousel = React.createClass({
         }
     }
     this.movePage(currentPage);
+    this.onMovePaged(currentPage);
   },
   movePage(currentPage){
 
