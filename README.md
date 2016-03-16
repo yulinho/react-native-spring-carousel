@@ -7,8 +7,10 @@ Support IOS and Android.
 ![My image](http://www.googledrive.com/host/0BwiaTbhy1w5COHdyWVBMcEJCRnc)
 
 <a href="http://www.googledrive.com/host/0BwiaTbhy1w5CbXNDYXpQckxFZE0/">Buy me a coffee if you like this</a>
+<a href="https://www.alipay.com/">如果你喜欢，请买杯咖啡给我 ， alipay: 4918605@qq.com</a>
 
 <a href="http://www.googledrive.com/host/0BwiaTbhy1w5CbXNDYXpQckxFZE0/"><img src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0"></a>
+<a href="https://www.alipay.com/"><img src="https://www.paypal.com/en_US/i/btn/btn_donate_SM.gif" border="0"></a>
 
 ## Install
 
